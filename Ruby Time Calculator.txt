@@ -1,0 +1,7 @@
+git merge edits
+git add README.md
+git add examples.md
+git commit -m "resolve merge conflicts"
+git branch
+git branch -d edits
+git branch
